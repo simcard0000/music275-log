@@ -2,6 +2,10 @@ const notesInfo = [
     {
         "title": "Lab 1: Taking Recordings - January 16, 2025",
         "contentSource": "./notes/lab1.md"
+    },
+    {
+        "title": "Lab 2: Sequencing - January 23, 2025",
+        "contentSource": "./notes/lab2.md"
     }
 ]
 
