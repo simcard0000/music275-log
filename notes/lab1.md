@@ -1,0 +1,1 @@
+My experience coming into this class was limited to basic use of some audio/music editing software, such as [Audacity](https://www.audacityteam.org/) and [GarageBand](https://www.apple.com/ios/garageband/). *More coming soon!*
