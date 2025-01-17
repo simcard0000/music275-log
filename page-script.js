@@ -14,7 +14,7 @@ let notesContent = [];
 
 for (let i = 0; i < notesInfo.length; i++) {
     let item = notesInfo[i];
-    let noteBefore = '<details><summary class="figtree">' + item.title + '</summary>'
+    let noteBefore = '<details open><summary class="figtree">' + item.title + '</summary>'
     let note = '<md-block class="figtree" src="' + item.contentSource + '">The note with the title: ' + item.title + ' was not found.</md-block>';
     let noteAfter = "</details>"
     notesContent.push(noteBefore + note + noteAfter)
