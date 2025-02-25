@@ -1,1 +1,0 @@
-*Lab has not been started yet*.
