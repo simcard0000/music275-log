@@ -4,8 +4,12 @@ const notesInfo = [
         "contentSource": "./notes/lab1.md"
     },
     {
-        "title": "Lab 2: Sequencing - January 23, 2025",
-        "contentSource": "./notes/lab2.md"
+        "title": "Repertoire Assignment - February 6, 2025",
+        "contentSource": "./notes/repertoire-assignment.md"
+    },
+    {
+        "title": "Midterm Composition - February 25, 2025",
+        "contentSource": "./notes/midterm.md"
     }
 ]
 

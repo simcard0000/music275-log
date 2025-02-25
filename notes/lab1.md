@@ -1,5 +1,7 @@
 My experience coming into this class was limited to basic use of some audio/music editing software, such as [Audacity](https://www.audacityteam.org/) and [GarageBand](https://www.apple.com/ios/garageband/), so for this lab I was excited to get my feet wet!
 
+Photos from the field recording escapades can be found at the [bottom of the log](#log-images).
+
 **Part 1 - Recording in the Studio**
 
 I visited the lab for the class at Conrad Grebel University College in the afternoon, on a weekend. I was with another student, and we set out to complete our studio recordings one after the other.
@@ -8,8 +10,8 @@ Upon entering the lab, it took some time to verify the setup of the large-diaphr
 * *Step 1 - in `cardioid` position, saying my name*
     * The sound of the recording location was quiet; but there was a background hum from the furnace, electrical, etc. systems of the college through the walls, as well as some shuffling from the person who I was sharing the room with.
     * I was worried about not holding myself from an appropriate distance from the microphone; I did not bring a measuring tape or a ruler, so I could not properly verify if my mouth was indeed 15 cm from the microphone. Otherwise, the background noise stayed the same during recording.
-    * After recording, I was surprised with how clear my name sounded; however I definitely enunciated my first name more than my last (I think I have a tendency to do that in general).
-    * There was a difference in the sounds from Step 1 and Step 2...(which I will get to in the next bit)
+    * After recording, I was surprised with how clear my name sounded; however, I definitely enunciated my first name more than my last (I think I have a tendency to do that in general).
+    * There was a difference in the sounds from Step 1 and Step 2... (which I will get to in the next bit)
 * *Step 2 - in `omnidirectional` position, saying my name again*
     * The background ambience stayed the same (as in Step 1); and I believe I heard some muffled foot traffic in the hallway outside the lab before recording.
     * While recording, the background noise was constant (as in the last bullet point).
@@ -26,19 +28,21 @@ Upon entering the lab, it took some time to verify the setup of the large-diaphr
 
 * *Step 1 - indoors*
     * Later in the same day, after being in the studio, I decided to finish my indoor field recordings. I left the lab to go to the Centre for Environmental and Information Technology (EIT) building, where my undergraduate program (Software Engineering, SE) has a student lounge.
-        * My first recording was of someone using a vending machine downstairs in the EIT Cafe.
+        * My <b>first recording</b> was of someone using a <b>vending machine downstairs in the EIT Cafe</b>.
             * There was nobody else around except for me and the person who I was recording using the machine, so background noise before and during the recording included the hum of the building, the shuffling of the 2 people present, and the drones of the vending machines.
-            * Upon hearing the recording, I was surprised to hear how loud the ambient sounds were compared to the sounds from the machine.
-                <img width="200" src="../assets/lab1-images/dither/dither_it_vending_machine.png">
-        * My second recording was of me making Windows OS notification sounds using my keyboard. I thought this might be a second, interesting indoor recording because the speakers on my laptop are a bit "deep-fried", so the notifications sounded a bit distorted.
-            * I was sitting in the lounge with a couple other students, so the ambience before and during the recording included some fans of EIT in the background, and students typing.
-                <img width="200" src="../assets/lab1-images/dither/dither_it_computer.png">
-
+            * Upon hearing the recording, I was surprised to hear how loud the ambient sounds were compared to the sounds from the machine. 
+        * My <b>second recording</b> was of me making <b>Windows OS notification sounds using my keyboard</b>. I thought this might be a second, interesting indoor recording because the speakers on my laptop are a bit "deep-fried", so the notifications sounded a bit distorted.
+            * I was sitting in the lounge with a couple of other students, so the ambience before and during the recording included some fans of EIT in the background, and students typing.
 * *Step 2 - outdoors*
     * The next day, I finished my outdoor recordings.
-        * My first recording is of the iON railroad crossing bells ringing outside the entrance to E5. There was a lot of background noise, mainly from people walking in the background. I was surprised with how loud the bells turned out to be.
-        <img width="200" src="../assets/lab1-images/dither/dither_it_iON.png">
-        * My second recording happened at the backside of EIT, because there is a lot of humming from the systems of the buildings. There was not much ambience except for this humming, and a few people walking.
-        <img width="200" src="../assets/lab1-images/dither/dither_it_EIT_backside.png">
-        * My third recording happened in front of the DC centre, where I recorded the front entrance doors opening and closing. The background noise before and during recording included the doors, and people walking and talking back and forth. 
-        <img width="200" src="../assets/lab1-images/dither/dither_it_DC_doors.png">
+        * My <b>first recording</b> is of the <b>iON railroad crossing bells ringing outside the entrance to E5</b>. There was a lot of background noise, mainly from people walking in the background. I was surprised with how loud the bells turned out to be.
+        * My <b>second recording</b> happened at the <b>backside of EIT</b>, because there is a lot of humming from the systems of the buildings. There was not much ambience except for this humming, and a few people walking.
+        * My <b>third recording</b> happened <b>in front of the DC centre</b>, where I recorded the front entrance doors opening and closing. The background noise before and during recording included the doors, and people walking and talking back and forth.
+
+##### Log Images
+<img style="padding: 5px;" width="60" src="../assets/lab1-images/dither/dither_it_vending_machine.png" alt="Making an indoor field recording in front of a vending machine">
+<img style="padding: 5px;" width="60" src="../assets/lab1-images/dither/dither_it_computer.png" alt="Making an indoor field recording using my personal computer"> 
+<img style="padding: 5px;" width="60" src="../assets/lab1-images/dither/dither_it_iON.png" alt="Making an outdoor field recording in front of a train crossing">
+<img style="padding: 5px;" width="60" src="../assets/lab1-images/dither/dither_it_EIT_backside.png" alt="Making an outdoor field recording behind the EIT building">
+<img style="padding: 5px;" width="60" src="../assets/lab1-images/dither/dither_it_DC_doors.png" alt="Making an outdoor field recording in front of a DC entrance">
+

@@ -50,6 +50,12 @@ h4, summary {
   color: purple;
 }
 
+h5 {
+  font-weight: 500;
+  font-size: 12px;
+  color: purple;
+}
+
 p, ul, ol {
   font-weight: 300;
   font-size: 12px;
@@ -60,5 +66,8 @@ details {
   border-radius: 5px;
   padding: 0.5em;
   margin-top: 0.5em;
+}
+
+details summary {
   cursor: pointer;
 }
